@@ -1,0 +1,7 @@
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Employee Class Challenge\Employee Class Challenge\bin\Debug\Employee Class Challenge.exe.config
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Employee Class Challenge\Employee Class Challenge\bin\Debug\Employee Class Challenge.exe
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Employee Class Challenge\Employee Class Challenge\bin\Debug\Employee Class Challenge.pdb
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Employee Class Challenge\Employee Class Challenge\obj\Debug\Employee Class Challenge.csprojAssemblyReference.cache
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Employee Class Challenge\Employee Class Challenge\obj\Debug\Employee Class Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Employee Class Challenge\Employee Class Challenge\obj\Debug\Employee Class Challenge.exe
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Employee Class Challenge\Employee Class Challenge\obj\Debug\Employee Class Challenge.pdb
