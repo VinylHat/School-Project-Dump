@@ -1,0 +1,50 @@
+<!--
+    Brendan Ellison - BRE2161115
+    11/18/2022
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Simon</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+<body onload="getHighScore()">
+    <nav>
+        <ul>
+            <a href="javascript.html"><li class="top-nav">Javascript</li></a>
+            <a href="index.html"><li class="top-nav">Home</li></a>
+            <a href="Blackjack.html"><li class="top-nav">Blackjack</li></a>
+            <a href="Mole.html"><li class="top-nav">Mole</li></a>
+            <a href="RPS.html"><li class="top-nav">Rock, Paper, Scissors</li></a>
+        </ul>
+    </nav>
+    <table>
+        <tr>
+            <th colspan="2"><h1>Simon Says</h1></th>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <p id="topText">You must hit the buttons in the order they light up in. 
+                Every time you do it right, the pattern will get longer. 
+                This will continue untill you do the pattern wrong. Your highest streak will be saved, Good Luck.</p></td>
+        </tr>
+        <tr>
+            <td class="empty-space" colspan="2">
+                <button class="btnGreen" onclick="playerInput(1)"></button>
+                <button class="btnRed" onclick="playerInput(2)"></button>
+                <button class="btnYellow" onclick="playerInput(3)"></button>
+                <button class="btnBlue" onclick="playerInput(4)"></button>
+            </td>
+        </tr>
+        <tr>
+            <td><button onclick="simonStart()">Start</button></td>
+            <td><p id="highScore"></p></td>
+        </tr>
+    </table>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="js/main.js" type="text/javascript"></script>
+</body>
+</html>
