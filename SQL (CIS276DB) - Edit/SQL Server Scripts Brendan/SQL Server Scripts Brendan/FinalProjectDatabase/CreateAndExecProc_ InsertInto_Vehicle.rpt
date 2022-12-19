@@ -1,0 +1,49 @@
+﻿VehicleID   Producer                         Model                                                            Year   Description
+----------- -------------------------------- ---------------------------------------------------------------- ------ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1           Toyota                           Tacoma                                                           2014   Owner had his catalytic converter stolen and needs it replaced aswell as a protective strap
+2           Chevrolet                        Malibu                                                           2014   Car needs a replacment secondary battary in the trunk, car runs fine otherwise
+3           Ford                             F-250                                                            2015   Nail found in the tire, needs a new wheel
+4           Chevrolet                        Silverado 2500HD                                                 2021   Needs an oil change
+5           Honda                            Civic                                                            2016   Needs new brake pads and ac filter
+6           Ford                             F-150                                                            2020   Alternator needs to be replaced and battery as well
+7           BMW                              328i                                                             2011   Thermostate needs to be replaced
+8           Nissan                           NV Cargo                                                         2021   Both side mirrors missing, needs replacing
+9           Chevrolet                        Malibu                                                           2014   Brake lights stoped working
+
+(9 rows affected)
+
+
+(1 row affected)
+VehicleID   Producer                         Model                                                            Year   Description
+----------- -------------------------------- ---------------------------------------------------------------- ------ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1           Toyota                           Tacoma                                                           2014   Owner had his catalytic converter stolen and needs it replaced aswell as a protective strap
+2           Chevrolet                        Malibu                                                           2014   Car needs a replacment secondary battary in the trunk, car runs fine otherwise
+3           Ford                             F-250                                                            2015   Nail found in the tire, needs a new wheel
+4           Chevrolet                        Silverado 2500HD                                                 2021   Needs an oil change
+5           Honda                            Civic                                                            2016   Needs new brake pads and ac filter
+6           Ford                             F-150                                                            2020   Alternator needs to be replaced and battery as well
+7           BMW                              328i                                                             2011   Thermostate needs to be replaced
+8           Nissan                           NV Cargo                                                         2021   Both side mirrors missing, needs replacing
+9           Chevrolet                        Malibu                                                           2014   Brake lights stoped working
+1003        Ford                             F-250                                                            NULL   Truck has a flat tire
+
+(10 rows affected)
+
+
+(1 row affected)
+VehicleID   Producer                         Model                                                            Year   Description
+----------- -------------------------------- ---------------------------------------------------------------- ------ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1           Toyota                           Tacoma                                                           2014   Owner had his catalytic converter stolen and needs it replaced aswell as a protective strap
+2           Chevrolet                        Malibu                                                           2014   Car needs a replacment secondary battary in the trunk, car runs fine otherwise
+3           Ford                             F-250                                                            2015   Nail found in the tire, needs a new wheel
+4           Chevrolet                        Silverado 2500HD                                                 2021   Needs an oil change
+5           Honda                            Civic                                                            2016   Needs new brake pads and ac filter
+6           Ford                             F-150                                                            2020   Alternator needs to be replaced and battery as well
+7           BMW                              328i                                                             2011   Thermostate needs to be replaced
+8           Nissan                           NV Cargo                                                         2021   Both side mirrors missing, needs replacing
+9           Chevrolet                        Malibu                                                           2014   Brake lights stoped working
+
+(9 rows affected)
+
+
+Completion time: 2021-12-03T11:57:35.6707574-07:00
