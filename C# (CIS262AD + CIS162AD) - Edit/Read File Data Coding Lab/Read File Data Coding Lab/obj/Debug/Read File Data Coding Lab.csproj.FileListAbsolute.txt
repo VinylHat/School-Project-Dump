@@ -1,0 +1,10 @@
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Read File Data Coding Lab\Read File Data Coding Lab\bin\Debug\Read File Data Coding Lab.exe.config
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Read File Data Coding Lab\Read File Data Coding Lab\bin\Debug\Read File Data Coding Lab.exe
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Read File Data Coding Lab\Read File Data Coding Lab\bin\Debug\Read File Data Coding Lab.pdb
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Read File Data Coding Lab\Read File Data Coding Lab\obj\Debug\Read File Data Coding Lab.csprojAssemblyReference.cache
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Read File Data Coding Lab\Read File Data Coding Lab\obj\Debug\Read_File_Data_Coding_Lab.Form1.resources
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Read File Data Coding Lab\Read File Data Coding Lab\obj\Debug\Read_File_Data_Coding_Lab.Properties.Resources.resources
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Read File Data Coding Lab\Read File Data Coding Lab\obj\Debug\Read File Data Coding Lab.csproj.GenerateResource.cache
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Read File Data Coding Lab\Read File Data Coding Lab\obj\Debug\Read File Data Coding Lab.csproj.CoreCompileInputs.cache
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Read File Data Coding Lab\Read File Data Coding Lab\obj\Debug\Read File Data Coding Lab.exe
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Read File Data Coding Lab\Read File Data Coding Lab\obj\Debug\Read File Data Coding Lab.pdb

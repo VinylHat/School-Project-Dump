@@ -1,0 +1,10 @@
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Pizza Coding Challenge\Pizza Coding Challenge\bin\Debug\Pizza Coding Challenge.exe.config
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Pizza Coding Challenge\Pizza Coding Challenge\bin\Debug\Pizza Coding Challenge.exe
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Pizza Coding Challenge\Pizza Coding Challenge\bin\Debug\Pizza Coding Challenge.pdb
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Pizza Coding Challenge\Pizza Coding Challenge\obj\Debug\Pizza Coding Challenge.csprojAssemblyReference.cache
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Pizza Coding Challenge\Pizza Coding Challenge\obj\Debug\Pizza_Coding_Challenge.Form1.resources
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Pizza Coding Challenge\Pizza Coding Challenge\obj\Debug\Pizza_Coding_Challenge.Properties.Resources.resources
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Pizza Coding Challenge\Pizza Coding Challenge\obj\Debug\Pizza Coding Challenge.csproj.GenerateResource.cache
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Pizza Coding Challenge\Pizza Coding Challenge\obj\Debug\Pizza Coding Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Pizza Coding Challenge\Pizza Coding Challenge\obj\Debug\Pizza Coding Challenge.exe
+C:\Users\Hitler\OneDrive - Maricopa Community College District\2020 Fall (3rd Semester)\C# Level 1 (CIS162AD)\Pizza Coding Challenge\Pizza Coding Challenge\obj\Debug\Pizza Coding Challenge.pdb
