@@ -1,7 +1,0 @@
-C:\Users\Hitler\OneDrive - Maricopa Community College District\2021 Spring (4th Semester)\Object Programming (CIS 150AB)\ConsoleApps\ConsoleApps\bin\Debug\ConsoleApps.exe.config
-C:\Users\Hitler\OneDrive - Maricopa Community College District\2021 Spring (4th Semester)\Object Programming (CIS 150AB)\ConsoleApps\ConsoleApps\bin\Debug\ConsoleApps.exe
-C:\Users\Hitler\OneDrive - Maricopa Community College District\2021 Spring (4th Semester)\Object Programming (CIS 150AB)\ConsoleApps\ConsoleApps\bin\Debug\ConsoleApps.pdb
-C:\Users\Hitler\OneDrive - Maricopa Community College District\2021 Spring (4th Semester)\Object Programming (CIS 150AB)\ConsoleApps\ConsoleApps\obj\Debug\ConsoleApps.csprojAssemblyReference.cache
-C:\Users\Hitler\OneDrive - Maricopa Community College District\2021 Spring (4th Semester)\Object Programming (CIS 150AB)\ConsoleApps\ConsoleApps\obj\Debug\ConsoleApps.csproj.CoreCompileInputs.cache
-C:\Users\Hitler\OneDrive - Maricopa Community College District\2021 Spring (4th Semester)\Object Programming (CIS 150AB)\ConsoleApps\ConsoleApps\obj\Debug\ConsoleApps.exe
-C:\Users\Hitler\OneDrive - Maricopa Community College District\2021 Spring (4th Semester)\Object Programming (CIS 150AB)\ConsoleApps\ConsoleApps\obj\Debug\ConsoleApps.pdb
